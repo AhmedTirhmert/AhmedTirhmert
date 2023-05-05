@@ -14,5 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ahmedtirhmert" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en" alt="ahmedtirhmert" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en" alt="ahmedtirhmert" /></p>
 
