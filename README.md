@@ -15,4 +15,26 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ahmedtirhmert" /></p> -->
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en" alt="ahmedtirhmert" /></p> -->
-
+<table style="border-collapse: collapse">
+  <tr>
+    <td>
+      <a href="https://app.daily.dev/Lucifer"
+        ><img
+          src="https://api.daily.dev/devcards/c132f1e67b8b433c92c9d70179c43932.png?r=o93"
+          width="400"
+          alt="Ahmed Tirhmert's Dev Card"
+      /></a>
+    </td>
+    <td>
+      <img
+        width="400"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+        alt="ahmedtirhmert"
+      /><img
+        width="400"
+        src="https://github-readme-stats.vercel.app/api?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en"
+        alt="ahmedtirhmert"
+      />
+    </td>
+  </tr>
+</table>
