@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tirmert</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-
+<a href="https://app.daily.dev/Lucifer"><img src="https://api.daily.dev/devcards/c132f1e67b8b433c92c9d70179c43932.png?r=ovr" width="400" alt="Ahmed Tirhmert's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtirhmert&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtirhmert" /> </p>
 
 <h3 align="left">Connect with me:</h3>
