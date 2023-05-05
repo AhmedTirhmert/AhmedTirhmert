@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtirhmert&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtirhmert" /> </p>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ahmedtirhmert/ahmedtirhmert/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ahmedTirhmert/ahmedTirhmert/blob/master/devcard.svg" width="400" alt="Ahmed Tirhmert's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
