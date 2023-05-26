@@ -28,7 +28,7 @@
     <td>
       <img
         width="500"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en&layout=compact"
         alt="ahmedtirhmert"
       /><img
         width="500"
