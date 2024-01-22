@@ -15,7 +15,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ahmedtirhmert" /></p> -->
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedtirhmert&show_icons=true&theme=tokyonight&locale=en" alt="ahmedtirhmert" /></p> -->
-<table style="border-collapse: collapse">
+<!--<table style="border-collapse: collapse">
   <tr>
     <td>
       <a href="https://app.daily.dev/Lucifer"
@@ -38,3 +38,4 @@
     </td>
   </tr>
 </table>
+-->
