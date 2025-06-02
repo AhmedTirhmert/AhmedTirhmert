@@ -2,7 +2,7 @@
 
 ## Passionate Frontend Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedTirhmert&label=Profile%20views&color=0e75b6&style=flat-square)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=AhmedTirhmert&label=Profile%20views&color=0e75b6&style=flat-square)-->
 
 ---
 
